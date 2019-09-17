@@ -1,0 +1,14 @@
+{
+  "name": "chart-pen",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:coloration/chart-pen.git",
+  "author": "WangBinyu <406279919@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "d3": "^5.12.0"
+  },
+  "devDependencies": {
+    "@types/d3": "^5.7.2"
+  }
+}
